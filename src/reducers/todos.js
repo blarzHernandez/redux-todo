@@ -1,7 +1,3 @@
-
-
-
-//this is an action creator
 const todos = (state = [], action) => {
     
         switch(action.type){
